@@ -73,11 +73,9 @@ This assignment provided hands-on experience with four critical areas that form 
    git add .
    git commit -m "DevOps FAT2: Dockerfile and README"
    git branch -M main
-   git remote add origin https://github.com/<your-github-username>/devops-fat2.git
+   git remote add origin https://github.com/madhumitaprasad/devops-fat2.git
    git push -u origin main
    ```
-
-   Replace `<your-github-username>` with your actual GitHub username.
 
 3. Visit your GitHub repository URL to verify that both files (`Dockerfile` and `README.md`) are now visible in the repository.
 ```
